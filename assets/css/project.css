@@ -239,26 +239,26 @@ a:hover {
 
 @media(min-width: 365px) {
     .card .title {
-        font-size: 1em;
+        font-size: 0.8em;
     }
 }
 
 @media(min-width: 425px) {
     .card .title {
-        font-size: 1.3em;
+        font-size: 0.8em;
     }
 }
 
 @media(min-width: 554px) {
     .card .title {
-        font-size: 1.5em;
+        font-size: 0.8em;
     }
 }
 
 @media(min-width: 60rem) {
     .card .title {
         padding-bottom: 4rem;
-        font-size: 1.2em;
+        font-size: 0.8em;
     }
 }
 
