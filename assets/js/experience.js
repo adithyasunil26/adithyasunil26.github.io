@@ -6,19 +6,19 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Student Developer @ FOSSi",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(May, 2021 - Present)",
-    desp: "<ul><li>Worked with FOSSi as a part of Google Summer Of Code.</li><li>Worked on porting BaseJumpSTL to FuseSoC.</li><li>Createdd core files for all BaseJumpSTL modules</li><li>Added Verilator lint targets for all core</li><li>Ported existing testbenches to work with Verilator</li><li>Created FuseSoC generators for bsg_fakeram and bsg_round_robin_arb</li></ul>",
-  },
-  {
     title: "Undergraduate Researcher",
     cardImage: "assets/images/experience-page/IIIT.png",
     place: "IIIT, Hyderabad",
-    time: "(May, 2021 - Present)",
+    time: "(May 2021 - Present)",
     desp:"<ul><li>Designing low K ring VCOs</li><li>Designing low K variation LC VCOs</li><li>Designing frequency synthesizers for low resolution low phase noise applications</li></ul>",
   },
+  {
+    title: "Student Developer @ FOSSi",
+    cardImage: "assets/images/experience-page/gsoc.png",
+    place: "Google Summer Of Code",
+    time: "(May 2021 - Aug 2021)",
+    desp: "<ul><li>Worked with FOSSi as a part of Google Summer Of Code.</li><li>Worked on porting BaseJumpSTL to FuseSoC.</li><li>Createdd core files for all BaseJumpSTL modules</li><li>Added Verilator lint targets for all core</li><li>Ported existing testbenches to work with Verilator</li><li>Created FuseSoC generators for bsg_fakeram and bsg_round_robin_arb</li></ul>",
+  }
 ];
 
 const showCards2 = () => {
