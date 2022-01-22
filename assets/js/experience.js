@@ -13,6 +13,13 @@ const exp = [
     desp:"<ul><li>Designing low K ring VCOs</li><li>Designing low K variation LC VCOs</li><li>Designing frequency synthesizers for low resolution low phase noise applications</li></ul>",
   },
   {
+    title: "Teaching Assistant",
+    cardImage: "assets/images/experience-page/IIIT.png",
+    place: "IIIT, Hyderabad",
+    time: "(Jan 2022 - Present)",
+    desp:"Teaching assistant for the aforementioned course. Responsible for conducting tutorials and course evaluations such as quizzes, assignments and projects.",
+  },
+  {
     title: "Student Developer @ FOSSi",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Google Summer Of Code",
